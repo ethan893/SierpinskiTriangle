@@ -5,8 +5,6 @@ public void setup() {
 public void draw() {
   sTriangle(0,500,500);
 }
-public void mousePressed() {
-}
 public void sTriangle(int x, int y, int len)
 {
   if(len <= 20) {
